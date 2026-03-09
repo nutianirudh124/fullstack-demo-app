@@ -1,0 +1,8 @@
+Understand design patterns - Gang of 4 design patterns
+Backend Development - RESTapi build and testing API using python fastapi
+Frontend Development - General principles and practices 
+ 
+Full Stack Application Development
+ 
+We will explore and try create a demo app 
+ 
