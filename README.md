@@ -1,4 +1,4 @@
-# Expense Manager
+# Expense Manager - Demo App
 
 A full-stack expense tracking app with a FastAPI backend and React frontend.
 
